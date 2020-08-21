@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMMvE2jJcwk6e7IWa+SIK56K2yK6oEcQv+LCcg/pP2EnblkErMRd4W+sTE+IrPty3QpmR0IxGU4GL8noLS5b4Q==",
+  "success": true,
+  "projectFilePath": "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\Messenger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\Messenger.csproj": {}
+  },
+  "projects": {
+    "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\Messenger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\Messenger.csproj",
+        "projectName": "Messenger",
+        "projectPath": "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\Messenger.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "D:\\vanthefish\\download\\CollegeClasses\\Summer2020\\COPADS\\Projects\\Messenger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "D:\\ProgramFiles\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
